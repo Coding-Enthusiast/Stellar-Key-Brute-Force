@@ -1,3 +1,8 @@
+**Update 2021**  
+Use my other project [StellarCracker-NetCore](https://github.com/Coding-Enthusiast/StellarCracker-NetCore), it is targetting
+.Net 5 so it can be used on any operating system including Linux.  
+It also has an improved and optimized code that doesn't have the limitations of this project.
+
 # Stellar-Key-Brute-Force
 A simple console app for verifying stellar private keys.
 
